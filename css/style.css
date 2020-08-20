@@ -1,0 +1,21 @@
+/* Assignment 1 - HTML and CSS Selectors */
+
+/* Part 1/4 - CSS element type selector(s) */
+div.part-one * {
+  color: green;
+}
+/* Part 2/4 - CSS element descendant selector(s) */
+div.part-two span {
+  color: red;
+}
+/* Part 3/4 - CSS class selector(s) */
+.background-yellow {
+  background-color: yellow;
+}
+.background-pink {
+  background-color: pink;
+}
+/* Part 4/4 - CSS class & class descendant selector(s) */
+.red-text {
+  color: red;
+}
